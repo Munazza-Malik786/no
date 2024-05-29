@@ -1,0 +1,74 @@
+.hero .bg-img{
+    background-image: url(img/hero-bg.png);
+    height: 500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero a{
+    padding-right: 5px;
+    color: blueviolet;
+}
+    .hero li{
+padding-right: 5px;
+    }
+    .heading{
+        flex-direction: column;
+}
+.card1 h5{
+color: blue;
+}
+.container .card1{
+width: 560px;
+background-color: aliceblue;
+} 
+.container .card1 button{
+    margin-left: 200px;
+    } 
+.text h5{
+    margin-left: 500px;
+    margin-top: 150px;
+    color: blue;
+}    
+.text h2{
+    margin-left: 300px;
+}   
+
+.start-container {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+.container{
+    max-width: 1140px;
+}
+.counter{
+        width: 100%;
+        padding-right: 20px;
+        padding-left: 30px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .text-center {
+        text-align: center !important;
+    }
+    .feature h5{
+       margin-left: 500px;
+        margin-top: 50px;
+    }
+    .paragraph img{
+        margin-top: 150px;
+    }
+ .quo .icon i{
+  font-size: 30px;
+
+
+ }
+     
+     
+
+
+
+
+  
